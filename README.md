@@ -3,11 +3,8 @@
 
 
 ### Tecnologies
-
-
-<img src="https://img.shields.io/badge/any_text-you_like-blue=Status&message=Concluded&color=7159c1&style=for-the-badge&logo=ghost"/>
-
-
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/)
 
 
 ### Project Status
